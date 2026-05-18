@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**algumgomes/algumgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+┌─────────────────────────────────────────────────────────────────────┐
+│  vinicius@github  ~  [session: active]                             │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                        ╱\_          │
+│  $ whoami                                             (` - 7        │
+│  ┌──────────────────────────────────────────────────────────────┐   │
+│  │  Vinícius Gomes · Data & Automation Enthusiast               │   │
+│  │  Limeira, SP · Brazil                                        │   │
+│  │  ADS (Fullstack & Automation) — INFNET · Remote              │   │
+│  │  Working with data, automation & process improvement         │   │
+│  └──────────────────────────────────────────────────────────────┘   │
+│                                                                     │
+│  $ cat stack.conf                                                   │
+│                                                                     │
+│  [data]                Excel · Power BI · Looker Studio · SQL       │
+│  [automation]          Python · pandas · ETL · requests             │
+│  [development]         Python · tkinter · APIs                      │
+│  [analytics]           Data Cleaning · Dashboards · Reporting       │
+│  [workflow]            CRM Support · Process Mapping                │
+│  [languages]           Python · SQL · PySpark                       │
+│                                                                     │
+│  $ cat hobbies.txt                                                  │
+│                                                                     │
+│  search · music · coffee · books · technology · learning            │
+│                                                                     │
+│  $ _                                                                │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘

@@ -7,7 +7,7 @@
 │  ┌──────────────────────────────────────────────────────────────┐   │
 │  │  Vinícius Gomes · Data & Automation Enthusiast               │   │
 │  │  Limeira, SP · Brazil                                        │   │
-│  │  ADS (Fullstack & Automation) — INFNET · Remote              │   │
+│  │  ADS (Fullstack & Automation) — INFNET                       │   │
 │  │  Working with data, automation & process improvement         │   │
 │  └──────────────────────────────────────────────────────────────┘   │
 │                                                                     │

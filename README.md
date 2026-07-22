@@ -14,7 +14,7 @@
 │                                                                     │
 │  $ cat stack.conf                                                   │
 │                                                                     │
-│  [core]              Python · SQL · Power BI · Excel                │
+│  [core]              Python · R · SQL · Power BI                    │
 │  [automation / etl]  Python · pandas · Oracle · ETL/ELT             │
 │  [learning]          Java · C# · .NET                               │
 │                                                                     │

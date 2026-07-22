@@ -1,28 +1,26 @@
-```txt
 ┌─────────────────────────────────────────────────────────────────────┐
-│  vinicius@github  ~  [session: active]                             │
+│  algumgomes@github  ~  [session: active]                            │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                        ╱\_          │
 │  $ whoami                                             (` - 7        │
 │  ┌──────────────────────────────────────────────────────────────┐   │
-│  │  Vinícius Gomes · Data & Automation Enthusiast               │   │
+│  │  Vinícius Gomes · Data & Automation Intern @ ZF Automotive   │   │
 │  │  Limeira, SP · Brazil                                        │   │
 │  │  ADS (Fullstack & Automation) — INFNET                       │   │
-│  │  Working with data, automation & process improvement         │   │
+│  │  Oracle Next Education (AI & Agents) — Alura & Oracle        │   │
+│  │  Building data pipelines, automation & backend systems       │   │
 │  └──────────────────────────────────────────────────────────────┘   │
 │                                                                     │
 │  $ cat stack.conf                                                   │
 │                                                                     │
-│  [data]                Excel · Power BI · Looker Studio · SQL       │
-│  [automation]          Python · pandas · ETL · requests             │
-│  [development]         Python · tkinter · APIs                      │
-│  [analytics]           Data Cleaning · Dashboards · Reporting       │
-│  [workflow]            CRM Support · Process Mapping                │
-│  [languages]           Python · SQL · PySpark                       │
+│  [core]              Python · SQL · Power BI · Excel                │
+│  [automation / etl]  Python · pandas · Oracle · ETL/ELT             │
+│  [learning]          Java · C# · .NET                               │
 │                                                                     │
-│  $ cat hobbies.txt                                                  │
+│  $ cat interests.txt                                                │
 │                                                                     │
-│  search · music · coffee · books · technology · learning            │
+│  applied data science · quantitative social analysis ·              │
+│  music · statistics · research                                      │
 │                                                                     │
 │  $ _                                                                │
 │                                                                     │
